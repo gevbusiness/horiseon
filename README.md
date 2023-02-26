@@ -20,7 +20,7 @@ The client insisted the Horiseon website to be refactored with semantic HTML to 
 
 ## Screenshot
 
-![Horiseon Webpage](assets/images/horiseon-screenshot.png)
+![Horiseon Webpage](/Users/topspy/Desktop/horiseon/assets/images/horiseon-screenshot.png)
 
 ## Link
 
