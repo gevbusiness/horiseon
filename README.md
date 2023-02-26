@@ -24,5 +24,4 @@ The client insisted the Horiseon website to be refactored with semantic HTML to 
 
 ## Link
 
-Horieson Website Link: 
-(https://gevbusiness.github.io/horiseon/)
+Horieson Link: https://github.com/gevbusiness/horiseon.git
